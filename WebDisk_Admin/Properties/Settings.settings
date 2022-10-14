@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebDisk_Admin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="downloadPath" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="serverIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">82.156.207.90</Value>
+    </Setting>
+    <Setting Name="runed" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="agentAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">www</Value>
+    </Setting>
+    <Setting Name="agentPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1287609286</Value>
+    </Setting>
+    <Setting Name="databaseName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pureftpd</Value>
+    </Setting>
+    <Setting Name="databaseAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pureftpd</Value>
+    </Setting>
+    <Setting Name="databasePassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1287609286</Value>
+    </Setting>
+    <Setting Name="absRootPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/www/wwwroot</Value>
+    </Setting>
+    <Setting Name="playSuccessSound" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="mailAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">zhang1287609286@qq.com</Value>
+    </Setting>
+    <Setting Name="mailPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">kxyqycxqgywdgiec</Value>
+    </Setting>
+    <Setting Name="mailServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.qq.com</Value>
+    </Setting>
+    <Setting Name="mailPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="showSuccessTip" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="closeAction" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
